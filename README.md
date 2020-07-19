@@ -2,7 +2,7 @@
 
 ## Background
 
-You will be implementing the well-known Merkle-Hellman Knapsack Cryptosystem algorithm in two ways: using a Doubly Linked List. This exercise will challenge you to use linked lists in a more complex way, and will also serve as an introduction to NP-Complete problems. 
+You will be implementing the well-known Merkle-Hellman Knapsack Cryptosystem algorithm using a Doubly Linked List. This exercise will challenge you to use linked lists in a more complex way, and will also serve as an introduction to NP-Complete problems. 
 
 ## Problem Statement
 
